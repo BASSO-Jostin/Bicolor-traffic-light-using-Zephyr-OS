@@ -18,11 +18,11 @@ In the demonstration, “F” indicates a green light and “C” indicates a ca
 
 <div style="display:flex; justify-content:center; gap:3px;">
 
-&nbsp; <img src="https://github.com/BASSO-Jostin/Bicolor-traffic-light-using-Zephyr-OS/tree/main/Media/Image\_Zephyr.jpg" alt="Image 2" style="width:50%; border-radius:7px; height : 200px">
+&nbsp; <img src="https://github.com/BASSO-Jostin/Bicolor-traffic-light-using-Zephyr-OS/blob/main/Media/Image\_Zephyr.jpg" alt="Image 2" style="width:50%; border-radius:7px; height : 200px">
 
 &nbsp; <video style="width:50%; border-radius:7px; height : 200px" controls autoplay loop muted>
 
-&nbsp; <source src="https://github.com/BASSO-Jostin/Bicolor-traffic-light-using-Zephyr-OS/tree/main/Media/Media1.mp4" type="video/mp4" >
+&nbsp; <source src="https://github.com/BASSO-Jostin/Bicolor-traffic-light-using-Zephyr-OS/blob/main/Media/Media1.mp4" type="video/mp4" >
 
 &nbsp; Ton navigateur ne supporte pas la lecture vidéo.
 
