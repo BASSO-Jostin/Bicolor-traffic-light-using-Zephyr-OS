@@ -14,11 +14,7 @@ The system state (traffic lights and vehicles) is displayed on four 7-segment di
 
 In the demonstration, “F” indicates a green light and “C” indicates a car (e.g., “F2” for light 2 being green, “C2” for car 2 crossing).
 
-
-
-<div style="display:flex; justify-content:center; gap:3px;">
-
-&nbsp; <img src="https://github.com/BASSO-Jostin/Bicolor-traffic-light-using-Zephyr-OS/blob/main/Media/Image\_Zephyr.jpg" alt="Image 2" style="width:50%; border-radius:7px; height : 200px">
+<img src="https://github.com/BASSO-Jostin/Bicolor-traffic-light-using-Zephyr-OS/blob/main/Media/Image_Zephyr.jpg" alt="Image 2" style="width:50%; border-radius:7px; height : 200px">
 
 &nbsp; <video style="width:50%; border-radius:7px; height : 200px" controls autoplay loop muted>
 
@@ -28,7 +24,6 @@ In the demonstration, “F” indicates a green light and “C” indicates a ca
 
 </video>
 
-</div>
 
 
 
