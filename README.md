@@ -13,7 +13,7 @@ Traffic synchronization is handled using mutexes and semaphores, while a pedestr
 The system state (traffic lights and vehicles) is displayed on four 7-segment displays, fully controlled by the program.
 
 In the demonstration, “F” indicates a green light and “C” indicates a car (e.g., “F2” for light 2 being green, “C2” for car 2 crossing).
-
+</br>
 <p align="center"> 
 <img src="https://github.com/BASSO-Jostin/Bicolor-traffic-light-using-Zephyr-OS/blob/main/Media/Image_Zephyr.jpg" alt="Image 2" style="width:50%; border-radius:7px; height : 300px">
 </p>
