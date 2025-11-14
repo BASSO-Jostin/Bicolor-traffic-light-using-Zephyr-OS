@@ -1,14 +1,14 @@
-Bicolor-traffic-light-using-Zephyr-OS
+</h1>Bicolor-traffic-light-using-Zephyr-OS<h1>
 
-This repository demonstrates the management of a bicolor (red and green) traffic light system, simulating up to five cars.
 
-Overview
+
+</h2>Overview<h2>
 
 This repository demonstrates the control of a two-way bicolor (red and green) traffic light system, simulating up to five cars. The project is implemented using Zephyr OS on embedded hardware, showcasing basic traffic management logic for IoT and embedded systems applications.
 
 
 
-\## Features
+</h2>Features<h2>
 
 
 
@@ -26,7 +26,7 @@ This repository demonstrates the control of a two-way bicolor (red and green) tr
 
 
 
-\## Hardware
+</h2>Hardware<h2>
 
 
 
@@ -42,7 +42,7 @@ This repository demonstrates the control of a two-way bicolor (red and green) tr
 
 
 
-\## Software
+</h2>Software<h2>
 
 <ul>
 
@@ -56,7 +56,7 @@ This repository demonstrates the control of a two-way bicolor (red and green) tr
 
 
 
-\## Contributing
+</h2>Contributing<h2>
 
 
 
