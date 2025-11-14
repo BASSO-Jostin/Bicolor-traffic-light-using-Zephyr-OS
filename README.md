@@ -1,4 +1,4 @@
-</h1>Bicolor-traffic-light-using-Zephyr-OS<h1>
+<h1>Bicolor-traffic-light-using-Zephyr-OS</h1>
 
 
 
@@ -8,7 +8,7 @@ This repository demonstrates the control of a two-way bicolor (red and green) tr
 
 
 
-</h2>Features<h2>
+<h2>Features</h2>
 
 
 
@@ -26,7 +26,7 @@ This repository demonstrates the control of a two-way bicolor (red and green) tr
 
 
 
-</h2>Hardware<h2>
+<h2>Hardware</h2>
 
 
 
@@ -42,7 +42,7 @@ This repository demonstrates the control of a two-way bicolor (red and green) tr
 
 
 
-</h2>Software<h2>
+<h2>Software</h2>
 
 <ul>
 
@@ -56,7 +56,7 @@ This repository demonstrates the control of a two-way bicolor (red and green) tr
 
 
 
-</h2>Contributing<h2>
+<h2>Contributing</h2>
 
 
 
